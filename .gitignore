@@ -16,3 +16,6 @@ server/node_modules/
 .vscode/
 *.iml
 .DS_Store
+*.exe
+build/
+**/build/

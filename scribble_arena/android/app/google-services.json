@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633661851326",
+    "project_id": "trible-d2ff2",
+    "storage_bucket": "trible-d2ff2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633661851326:android:1c0b9832da062653ef80ef",
+        "android_client_info": {
+          "package_name": "com.example.trible"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ1nC2dJwQmnEjDmZbPpcuhJAHNczGJOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

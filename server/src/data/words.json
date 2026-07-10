@@ -1,0 +1,112 @@
+{
+  "animals": {
+    "easy": ["dog", "cat", "fish", "bird", "cow", "pig", "duck", "frog", "bee", "ant", "hen", "bat", "rat", "fox", "owl", "bear", "deer", "lion", "wolf", "seal", "crab", "snail", "mouse", "horse", "sheep", "goat", "snake", "whale", "shark", "eagle", "bunny", "puppy", "kitten", "panda", "monkey", "parrot", "turtle", "chicken", "dolphin", "elephant"],
+    "medium": ["penguin", "giraffe", "zebra", "gorilla", "cheetah", "leopard", "octopus", "lobster", "peacock", "flamingo", "hamster", "raccoon", "squirrel", "hedgehog", "crocodile", "kangaroo", "rhinoceros", "seahorse", "jellyfish", "starfish", "butterfly", "dragonfly", "scorpion", "chameleon", "pelican", "toucan", "vulture", "falcon", "panther", "buffalo"],
+    "hard": ["platypus", "axolotl", "narwhal", "armadillo", "capybara", "wolverine", "porcupine", "chinchilla", "salamander", "tarantula", "barracuda", "piranha", "mongoose", "pangolin", "manatee", "albatross", "cassowary", "komodo", "lemur", "ocelot", "iguana", "anteater", "meerkat", "warthog", "mandrill"]
+  },
+  "food": {
+    "easy": ["pizza", "cake", "apple", "bread", "egg", "milk", "rice", "soup", "pie", "corn", "meat", "fish", "ice cream", "cookie", "candy", "donut", "banana", "grape", "orange", "lemon", "cherry", "berry", "mango", "peach", "plum", "salad", "cheese", "butter", "toast", "pasta", "taco", "burger", "hotdog", "fries", "chips", "juice", "water", "tea", "soda", "jam"],
+    "medium": ["sushi", "burrito", "pancake", "waffle", "pretzel", "popcorn", "noodles", "dumpling", "croissant", "baguette", "cupcake", "brownie", "muffin", "lasagna", "omelette", "sandwich", "broccoli", "avocado", "coconut", "pineapple", "mushroom", "pumpkin", "cucumber", "cabbage", "spinach", "cinnamon", "chocolate", "caramel", "pudding", "yogurt"],
+    "hard": ["ratatouille", "tiramisu", "bruschetta", "guacamole", "quesadilla", "sourdough", "prosciutto", "macaron", "artichoke", "asparagus", "pomegranate", "persimmon", "dragonfruit", "lychee", "kumquat", "focaccia", "gnocchi", "paella", "risotto", "tempura", "edamame", "gazpacho", "ceviche", "escargot", "baklava"]
+  },
+  "sports": {
+    "easy": ["soccer", "tennis", "golf", "swim", "run", "jump", "kick", "throw", "catch", "ball", "bat", "goal", "race", "gym", "ski", "skate", "surf", "dive", "bike", "hike", "boxing", "hockey", "rugby", "cricket", "bowling", "fishing", "rowing", "karate", "judo", "yoga"],
+    "medium": ["archery", "fencing", "surfing", "sailing", "climbing", "wrestling", "marathon", "triathlon", "lacrosse", "badminton", "volleyball", "handball", "javelin", "hurdles", "discus", "trampoline", "snowboard", "kayaking", "canoeing", "equestrian", "gymnastics", "pentathlon", "waterpolo", "billiards", "darts"],
+    "hard": ["bobsled", "luge", "curling", "steeplechase", "decathlon", "biathlon", "skeleton", "paragliding", "wakeboarding", "kitesurfing", "orienteering", "parkour", "capoeira", "pelota", "sepak takraw", "polo", "squash", "racquetball", "bouldering", "rappelling"]
+  },
+  "vehicles": {
+    "easy": ["car", "bus", "bike", "boat", "ship", "plane", "train", "truck", "van", "taxi", "jet", "raft", "sled", "cart", "tram", "canoe", "kayak", "yacht", "ferry", "scooter", "rocket", "ambulance", "firetruck", "bicycle", "motorcycle"],
+    "medium": ["helicopter", "submarine", "tractor", "bulldozer", "sailboat", "hovercraft", "limousine", "minivan", "convertible", "speedboat", "catamaran", "forklift", "excavator", "snowmobile", "rickshaw", "chariot", "gondola", "trolley", "monorail", "segway"],
+    "hard": ["zeppelin", "dirigible", "hydrofoil", "catapult", "trebuchet", "steamroller", "hoverboard", "ultralight", "glider", "biplane", "seaplane", "amphibious", "snowplow", "zamboni", "funicular", "cablecar", "toboggan", "sampan", "catamaran", "trimaran"]
+  },
+  "household": {
+    "easy": ["chair", "table", "lamp", "bed", "door", "window", "clock", "phone", "tv", "cup", "plate", "fork", "knife", "spoon", "bowl", "pan", "pot", "soap", "towel", "pillow", "mirror", "couch", "desk", "shelf", "rug", "broom", "mop", "bucket", "basket", "candle"],
+    "medium": ["blender", "curtain", "fireplace", "bookshelf", "dishwasher", "microwave", "toaster", "refrigerator", "vacuum", "chandelier", "staircase", "balcony", "chimney", "bathtub", "showerhead", "doorbell", "thermostat", "radiator", "wardrobe", "dresser", "nightstand", "hammock", "recliner", "ottoman", "aquarium"],
+    "hard": ["chandelier", "thermostat", "dehumidifier", "breadmaker", "espresso machine", "bidet", "chaise lounge", "credenza", "armoire", "hutch", "ottoman", "futon", "daybed", "settee", "sconce", "valance", "cornice", "wainscoting", "pergola", "gazebo"]
+  },
+  "nature": {
+    "easy": ["tree", "sun", "rain", "snow", "cloud", "star", "moon", "river", "lake", "hill", "rock", "leaf", "flower", "grass", "sand", "mud", "ice", "fire", "wind", "wave", "forest", "beach", "mountain", "island", "garden", "rainbow", "sunset", "lightning", "waterfall", "volcano"],
+    "medium": ["glacier", "canyon", "desert", "jungle", "swamp", "coral reef", "stalactite", "stalagmite", "geyser", "aurora", "tornado", "hurricane", "earthquake", "tsunami", "avalanche", "lagoon", "meadow", "prairie", "tundra", "savanna", "oasis", "cliff", "cave", "marsh", "fjord"],
+    "hard": ["archipelago", "caldera", "mesa", "butte", "atoll", "isthmus", "peninsula", "plateau", "delta", "estuary", "mangrove", "permafrost", "moraine", "sinkhole", "cenote", "cirque", "drumlin", "fumarole", "karst", "scree"]
+  },
+  "professions": {
+    "easy": ["doctor", "teacher", "chef", "nurse", "police", "farmer", "pilot", "dentist", "singer", "dancer", "artist", "baker", "driver", "judge", "mayor", "vet", "clown", "pirate", "ninja", "wizard", "knight", "king", "queen", "soldier", "sailor"],
+    "medium": ["astronaut", "detective", "plumber", "carpenter", "mechanic", "electrician", "firefighter", "librarian", "scientist", "engineer", "architect", "pharmacist", "journalist", "photographer", "musician", "sculptor", "magician", "acrobat", "blacksmith", "ranger"],
+    "hard": ["archaeologist", "cartographer", "locksmith", "paleontologist", "taxidermist", "sommelier", "epidemiologist", "meteorologist", "entomologist", "ornithologist", "volcanologist", "cryptographer", "neurologist", "dermatologist", "radiologist"]
+  },
+  "clothing": {
+    "easy": ["hat", "shoe", "dress", "shirt", "pants", "sock", "coat", "belt", "tie", "boot", "glove", "scarf", "ring", "crown", "cape", "mask", "vest", "robe", "skirt", "jeans", "shorts", "hoodie", "sweater", "jacket", "sandal"],
+    "medium": ["goggles", "suspenders", "tuxedo", "bikini", "kimono", "poncho", "turban", "beret", "fedora", "bonnet", "overalls", "cardigan", "blazer", "leggings", "sneakers", "slippers", "stilettos", "bowtie", "cufflinks", "monocle"],
+    "hard": ["cummerbund", "lederhosen", "cravat", "fez", "pince-nez", "sombrero", "kilt", "dashiki", "sari", "toga", "epaulets", "gauntlet", "greaves", "chainmail", "corset", "bustle", "petticoat", "fascinator", "mantilla", "ascot"]
+  },
+  "music": {
+    "easy": ["guitar", "drum", "piano", "flute", "bell", "horn", "harp", "violin", "cello", "bass", "banjo", "song", "note", "band", "choir", "stage", "mic", "radio", "disco", "dance", "concert", "singer", "speaker", "headphones", "record"],
+    "medium": ["trumpet", "accordion", "saxophone", "clarinet", "trombone", "ukulele", "xylophone", "tambourine", "harmonica", "bongos", "maracas", "mandolin", "bagpipes", "conductor", "orchestra", "symphony", "karaoke", "metronome", "amplifier", "turntable"],
+    "hard": ["didgeridoo", "sitar", "harpsichord", "theremin", "balalaika", "bouzouki", "zither", "dulcimer", "hurdy-gurdy", "kalimba", "lyre", "oboe", "bassoon", "piccolo", "glockenspiel", "vibraphone", "synthesizer", "melodica", "ocarina", "pan flute"]
+  },
+  "technology": {
+    "easy": ["phone", "laptop", "mouse", "screen", "camera", "robot", "wifi", "email", "game", "app", "usb", "dvd", "cd", "gps", "printer", "tablet", "watch", "keyboard", "charger", "battery", "remote", "console", "computer", "internet", "antenna"],
+    "medium": ["router", "satellite", "drone", "scanner", "projector", "modem", "server", "database", "firewall", "bluetooth", "smartwatch", "earbuds", "webcam", "joystick", "touchscreen", "hologram", "solar panel", "microchip", "circuit board", "hard drive"],
+    "hard": ["motherboard", "oscilloscope", "blockchain", "algorithm", "encryption", "biometric", "quantum computer", "neural network", "augmented reality", "virtual reality", "nanotechnology", "cryptocurrency", "cybersecurity", "mainframe", "supercomputer"]
+  },
+  "buildings": {
+    "easy": ["house", "castle", "church", "school", "store", "barn", "tower", "bridge", "wall", "gate", "tent", "cabin", "fort", "dome", "arch", "shed", "garage", "hotel", "temple", "palace", "prison", "hospital", "library", "museum", "stadium"],
+    "medium": ["lighthouse", "pyramid", "skyscraper", "cathedral", "monastery", "windmill", "greenhouse", "observatory", "aquarium", "amphitheater", "warehouse", "penthouse", "cottage", "mansion", "bungalow", "pagoda", "minaret", "obelisk", "aqueduct", "colosseum"],
+    "hard": ["ziggurat", "parthenon", "acropolis", "basilica", "mausoleum", "pantheon", "citadel", "battlement", "turret", "drawbridge", "portcullis", "parapet", "flying buttress", "campanile", "rotunda", "cloister", "nave", "transept", "apse", "vestibule"]
+  },
+  "fantasy": {
+    "easy": ["dragon", "wizard", "sword", "shield", "magic", "fairy", "ghost", "giant", "dwarf", "elf", "troll", "ogre", "witch", "spell", "wand", "potion", "crown", "throne", "castle", "dungeon", "treasure", "crystal", "dragon", "unicorn", "phoenix"],
+    "medium": ["unicorn", "goblin", "centaur", "mermaid", "werewolf", "vampire", "griffin", "pegasus", "kraken", "medusa", "cyclops", "minotaur", "sphinx", "chimera", "gargoyle", "sorcerer", "enchantress", "paladin", "necromancer", "warlock"],
+    "hard": ["basilisk", "hydra", "manticore", "wyvern", "behemoth", "leviathan", "banshee", "wraith", "lich", "djinn", "golem", "homunculus", "familiar", "phylactery", "grimoire", "artifact", "runesword", "dragonscale", "elixir", "alchemy"]
+  },
+  "ocean": {
+    "easy": ["fish", "whale", "shell", "wave", "sand", "boat", "ship", "sail", "net", "hook", "reef", "surf", "tide", "pier", "dock", "crab", "clam", "eel", "ray", "seal", "anchor", "coral", "island", "ocean", "seagull"],
+    "medium": ["octopus", "seahorse", "starfish", "swordfish", "stingray", "hammerhead", "manatee", "walrus", "orca", "narwhal", "squid", "lobster", "shrimp", "oyster", "barnacle", "kelp", "plankton", "anemone", "urchin", "blowfish"],
+    "hard": ["anglerfish", "nautilus", "cuttlefish", "portuguese man-of-war", "mantis shrimp", "giant squid", "blue whale", "hammerhead shark", "manta ray", "whale shark", "barracuda", "moray eel", "sea cucumber", "sea otter", "sea lion"]
+  },
+  "space": {
+    "easy": ["star", "moon", "sun", "rocket", "alien", "planet", "earth", "mars", "ring", "orbit", "sky", "space", "comet", "meteor", "galaxy", "nebula", "ufo", "astronaut", "satellite", "telescope", "crater", "eclipse", "asteroid", "constellation", "spaceship"],
+    "medium": ["black hole", "supernova", "milky way", "solar system", "space station", "lunar rover", "space shuttle", "gravity", "atmosphere", "magnetosphere", "exoplanet", "light year", "wormhole", "quasar", "pulsar", "neutron star", "white dwarf", "red giant", "dark matter", "cosmic ray"],
+    "hard": ["singularity", "event horizon", "accretion disk", "heliosphere", "chromosphere", "photosphere", "protostar", "magnetar", "binary star", "globular cluster", "redshift", "blueshift", "parsec", "aphelion", "perihelion"]
+  },
+  "art": {
+    "easy": ["paint", "brush", "canvas", "draw", "color", "pen", "pencil", "crayon", "marker", "paper", "easel", "frame", "sketch", "portrait", "statue", "clay", "glue", "tape", "scissors", "stamp", "palette", "gallery", "museum", "photo", "camera"],
+    "medium": ["sculpture", "mosaic", "watercolor", "acrylic", "charcoal", "pastel", "origami", "collage", "mural", "graffiti", "pottery", "ceramic", "calligraphy", "engraving", "etching", "lithograph", "stencil", "silk screen", "tapestry", "textile"],
+    "hard": ["fresco", "chiaroscuro", "pointillism", "impasto", "sfumato", "trompe-loeil", "bas-relief", "intaglio", "daguerreotype", "encaustic", "grisaille", "pentimento", "plein air", "gouache", "tempera"]
+  },
+  "emotions": {
+    "easy": ["happy", "sad", "angry", "scared", "love", "cry", "laugh", "smile", "hug", "kiss", "sleep", "dream", "hope", "fear", "joy", "shy", "brave", "tired", "bored", "silly", "proud", "sorry", "surprise", "excited", "calm"],
+    "medium": ["confused", "nervous", "proud", "jealous", "anxious", "grateful", "lonely", "embarrassed", "frustrated", "determined", "disgusted", "amazed", "suspicious", "curious", "confident", "nostalgic", "peaceful", "restless", "grumpy", "cheerful"],
+    "hard": ["melancholy", "euphoria", "nostalgia", "serenity", "ennui", "epiphany", "catharsis", "schadenfreude", "wanderlust", "saudade", "ambivalence", "apathy", "empathy", "compassion", "reverence"]
+  },
+  "weather": {
+    "easy": ["rain", "snow", "wind", "sun", "cloud", "storm", "fog", "hail", "ice", "hot", "cold", "wet", "dry", "thunder", "lightning", "rainbow", "frost", "flood", "drought", "breeze", "puddle", "umbrella", "snowman", "icicle", "sunshine"],
+    "medium": ["tornado", "blizzard", "hurricane", "typhoon", "monsoon", "heatwave", "sleet", "drizzle", "downpour", "overcast", "humidity", "dewdrop", "whirlwind", "sandstorm", "hailstorm", "thunderstorm", "waterspout", "windmill", "barometer", "thermometer"],
+    "hard": ["aurora borealis", "aurora australis", "haboob", "derecho", "microburst", "virga", "mammatus", "cumulonimbus", "stratosphere", "mesosphere", "ionosphere", "troposphere", "jet stream", "polar vortex", "heat lightning"]
+  },
+  "tools": {
+    "easy": ["hammer", "saw", "drill", "nail", "screw", "wrench", "axe", "rake", "shovel", "broom", "mop", "brush", "tape", "glue", "rope", "chain", "lock", "key", "hook", "clamp", "ladder", "wheelbarrow", "bucket", "funnel", "ruler"],
+    "medium": ["wrench", "pliers", "chisel", "level", "compass", "protractor", "sandpaper", "soldering iron", "welding mask", "hacksaw", "crowbar", "vise", "anvil", "pulley", "winch", "jack", "crane", "scaffolding", "trowel", "plane"],
+    "hard": ["lathe", "theodolite", "calipers", "micrometer", "multimeter", "oscilloscope", "torque wrench", "pipe wrench", "router table", "band saw", "scroll saw", "jigsaw", "power drill", "impact driver", "reciprocating saw"]
+  },
+  "body": {
+    "easy": ["hand", "eye", "foot", "ear", "nose", "mouth", "head", "arm", "leg", "hair", "face", "neck", "back", "chest", "belly", "knee", "toe", "thumb", "teeth", "tongue", "heart", "brain", "bone", "skin", "muscle"],
+    "medium": ["elbow", "spine", "ribcage", "shoulder", "ankle", "wrist", "pelvis", "jaw", "temple", "forehead", "eyebrow", "eyelash", "nostril", "dimple", "freckle", "wrinkle", "knuckle", "fingernail", "toenail", "collarbone"],
+    "hard": ["clavicle", "diaphragm", "ligament", "tendon", "cartilage", "vertebra", "sternum", "scapula", "femur", "tibia", "fibula", "patella", "humerus", "radius", "ulna", "metacarpal", "metatarsal", "phalanx", "cochlea", "retina"]
+  },
+  "geography": {
+    "easy": ["mountain", "river", "island", "ocean", "lake", "desert", "forest", "beach", "city", "country", "map", "globe", "north", "south", "east", "west", "cave", "hill", "valley", "cliff", "bridge", "road", "path", "border", "flag"],
+    "medium": ["canyon", "peninsula", "archipelago", "continent", "equator", "volcano", "glacier", "plateau", "lagoon", "harbor", "strait", "delta", "fjord", "gorge", "ravine", "basin", "cape", "bay", "gulf", "reef"],
+    "hard": ["isthmus", "atoll", "caldera", "mesa", "butte", "steppe", "taiga", "chaparral", "savanna", "tundra", "permafrost", "moraine", "escarpment", "watershed", "confluence"]
+  },
+  "movies": {
+    "easy": ["camera", "popcorn", "screen", "movie", "actor", "star", "ticket", "seat", "hero", "villain", "scene", "script", "action", "comedy", "horror", "drama", "cartoon", "zombie", "robot", "alien", "monster", "ghost", "pirate", "cowboy", "superhero"],
+    "medium": ["director", "stuntman", "sequel", "prequel", "trailer", "premiere", "red carpet", "oscar", "spotlight", "audition", "backstage", "costume", "makeup", "special effects", "animation", "documentary", "thriller", "blockbuster", "franchise", "cameo"],
+    "hard": ["cinematography", "cliffhanger", "protagonist", "antagonist", "montage", "flashback", "foreshadowing", "mise-en-scene", "deus ex machina", "macguffin", "voiceover", "soliloquy", "storyboard", "post-production", "foley"]
+  },
+  "toys": {
+    "easy": ["ball", "dice", "kite", "doll", "car", "train", "bear", "block", "puzzle", "yo-yo", "top", "drum", "slide", "swing", "seesaw", "sandbox", "balloon", "bubble", "frisbee", "robot", "lego", "crayon", "clay", "skateboard", "scooter"],
+    "medium": ["trampoline", "boomerang", "kaleidoscope", "marionette", "pinwheel", "slingshot", "catapult", "telescope", "microscope", "chemistry set", "magic kit", "jigsaw puzzle", "model airplane", "remote control car", "water gun", "nerf gun", "hula hoop", "pogo stick", "jump rope", "hopscotch"],
+    "hard": ["matryoshka", "spirograph", "etch-a-sketch", "viewmaster", "whirligig", "dreidel", "kendama", "diabolo", "gyroscope", "zoetrope", "thaumatrope", "stereoscope", "automaton", "jacob ladder", "tangram"]
+  }
+}

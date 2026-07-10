@@ -1,0 +1,18 @@
+# Secrets and API Keys
+.env
+*.env
+server/.env
+trible-d2ff2-firebase-adminsdk-fbsvc-38ccceba77.json
+*-firebase-adminsdk-*.json
+
+# Dependency directories
+node_modules/
+server/node_modules/
+.dart_tool/
+.flutter-plugins-dependencies
+
+# IDEs and OS
+.idea/
+.vscode/
+*.iml
+.DS_Store

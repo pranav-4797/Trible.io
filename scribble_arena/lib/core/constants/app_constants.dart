@@ -8,8 +8,8 @@ class AppConstants {
   static const int appBuildNumber = 1;
 
   // ─── Server ───
-  static const String defaultServerUrl = 'http://10.0.2.2:3000'; // Android emulator localhost
-  static const String productionServerUrl = 'https://scribble-arena-api.onrender.com';
+  static const String defaultServerUrl = 'https://trible-io.onrender.com'; // Render backend URL
+  static const String productionServerUrl = 'https://trible-io.onrender.com';
   static const int socketReconnectDelay = 2000; // ms
   static const int socketMaxReconnectAttempts = 10;
   static const int socketTimeout = 10000; // ms

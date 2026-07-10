@@ -9,7 +9,7 @@ plugins {
 
 android {
     namespace = "com.example.trible"
-    compileSdk = 34
+    compileSdk = 36
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
